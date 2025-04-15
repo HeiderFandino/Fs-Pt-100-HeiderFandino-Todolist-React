@@ -9,3 +9,39 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+  margin-top: 3rem;
+  background-color: rgb(221, 226, 224);
+
+  
+}
+ul{
+  padding-left: 0;
+  margin-bottom: 0;
+}
+ul li {
+  border: 1px solid grey;
+  list-style: none;
+  padding: 0.3rem;
+    
+}
+
+input {
+  width: 100%;
+  border: none;
+}
+p{
+  margin-top: 0.5;
+  text-align: left;
+}
+.container{
+  width: 40rem;
+  height: 40rem;
+  border: 3px solid black;
+  background-color: white;
+  padding: 1rem;
+}
+h2{
+  color: rgb(122, 122, 122);
+}
